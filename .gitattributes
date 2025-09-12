@@ -1,2 +1,8 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Normalize line endings in repository to LF, allow Windows working copies to use CRLF if core.autocrlf=true
+* text=auto eol=lf
+
+# force specific types to LF
+*.md    text eol=lf
+*.ts    text eol=lf
+*.js    text eol=lf
+*.json  text eol=lf
