@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="1.208" tests="14" failures="0">
+  <testsuite name="Root Suite" timestamp="2025-03-11T10:34:44" tests="0" file="cypress\e2e\util-tests\DataMapper\DataMapper_GetNestedKeys.feature" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="DataMapper - Retrieve all nested property keys from an object" timestamp="2025-03-11T10:34:44" tests="14" time="1.197" failures="0">
+    <testcase name="DataMapper - Retrieve all nested property keys from an object DATAMAPPER-GETNESTEDKEYS-001 - DataMapper method Get nested keys from various objects (example #1)" time="0.071" classname="DATAMAPPER-GETNESTEDKEYS-001 - DataMapper method Get nested keys from various objects (example #1)">
+    </testcase>
+    <testcase name="DataMapper - Retrieve all nested property keys from an object DATAMAPPER-GETNESTEDKEYS-001 - DataMapper method Get nested keys from various objects (example #2)" time="0.044" classname="DATAMAPPER-GETNESTEDKEYS-001 - DataMapper method Get nested keys from various objects (example #2)">
+    </testcase>
+    <testcase name="DataMapper - Retrieve all nested property keys from an object DATAMAPPER-GETNESTEDKEYS-001 - DataMapper method Get nested keys from various objects (example #3)" time="0.044" classname="DATAMAPPER-GETNESTEDKEYS-001 - DataMapper method Get nested keys from various objects (example #3)">
+    </testcase>
+    <testcase name="DataMapper - Retrieve all nested property keys from an object DATAMAPPER-GETNESTEDKEYS-001 - DataMapper method Get nested keys from various objects (example #4)" time="0.037" classname="DATAMAPPER-GETNESTEDKEYS-001 - DataMapper method Get nested keys from various objects (example #4)">
+    </testcase>
+    <testcase name="DataMapper - Retrieve all nested property keys from an object DATAMAPPER-GETNESTEDKEYS-001 - DataMapper method Get nested keys from various objects (example #5)" time="0.045" classname="DATAMAPPER-GETNESTEDKEYS-001 - DataMapper method Get nested keys from various objects (example #5)">
+    </testcase>
+    <testcase name="DataMapper - Retrieve all nested property keys from an object DATAMAPPER-GETNESTEDKEYS-001 - DataMapper method Get nested keys from various objects (example #6)" time="0.046" classname="DATAMAPPER-GETNESTEDKEYS-001 - DataMapper method Get nested keys from various objects (example #6)">
+    </testcase>
+    <testcase name="DataMapper - Retrieve all nested property keys from an object DATAMAPPER-GETNESTEDKEYS-001 - DataMapper method Get nested keys from various objects (example #7)" time="0.044" classname="DATAMAPPER-GETNESTEDKEYS-001 - DataMapper method Get nested keys from various objects (example #7)">
+    </testcase>
+    <testcase name="DataMapper - Retrieve all nested property keys from an object DATAMAPPER-GETNESTEDKEYS-001 - DataMapper method Get nested keys from various objects (example #8)" time="0.043" classname="DATAMAPPER-GETNESTEDKEYS-001 - DataMapper method Get nested keys from various objects (example #8)">
+    </testcase>
+    <testcase name="DataMapper - Retrieve all nested property keys from an object DATAMAPPER-GETNESTEDKEYS-001 - DataMapper method Get nested keys from various objects (example #9)" time="0.047" classname="DATAMAPPER-GETNESTEDKEYS-001 - DataMapper method Get nested keys from various objects (example #9)">
+    </testcase>
+    <testcase name="DataMapper - Retrieve all nested property keys from an object DATAMAPPER-GETNESTEDKEYS-001 - DataMapper method Get nested keys from various objects (example #10)" time="0.046" classname="DATAMAPPER-GETNESTEDKEYS-001 - DataMapper method Get nested keys from various objects (example #10)">
+    </testcase>
+    <testcase name="DataMapper - Retrieve all nested property keys from an object DATAMAPPER-GETNESTEDKEYS-002 - DataMapper method Get nested keys from various predefined objects (example #1)" time="0.278" classname="DATAMAPPER-GETNESTEDKEYS-002 - DataMapper method Get nested keys from various predefined objects (example #1)">
+    </testcase>
+    <testcase name="DataMapper - Retrieve all nested property keys from an object DATAMAPPER-GETNESTEDKEYS-002 - DataMapper method Get nested keys from various predefined objects (example #2)" time="0.039" classname="DATAMAPPER-GETNESTEDKEYS-002 - DataMapper method Get nested keys from various predefined objects (example #2)">
+    </testcase>
+    <testcase name="DataMapper - Retrieve all nested property keys from an object DATAMAPPER-GETNESTEDKEYS-002 - DataMapper method Get nested keys from various predefined objects (example #3)" time="0.041" classname="DATAMAPPER-GETNESTEDKEYS-002 - DataMapper method Get nested keys from various predefined objects (example #3)">
+    </testcase>
+    <testcase name="DataMapper - Retrieve all nested property keys from an object DATAMAPPER-GETNESTEDKEYS-002 - DataMapper method Get nested keys from various predefined objects (example #4)" time="0.033" classname="DATAMAPPER-GETNESTEDKEYS-002 - DataMapper method Get nested keys from various predefined objects (example #4)">
+    </testcase>
+  </testsuite>
+</testsuites>

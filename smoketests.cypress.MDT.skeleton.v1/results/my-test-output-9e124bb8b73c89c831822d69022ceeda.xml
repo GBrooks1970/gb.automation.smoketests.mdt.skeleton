@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.327" tests="4" failures="0">
+  <testsuite name="Root Suite" timestamp="2025-03-11T10:16:10" tests="0" file="cypress\e2e\util-tests\MappingUtils\MappingUtils_compareObjectsByKeyValuePairs.feature" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="MappingUtils - Compar objects by key-value pairs - compareObjectsByKeyValuePairs method" timestamp="2025-03-11T10:16:10" tests="4" time="0.319" failures="0">
+    <testcase name="MappingUtils - Compar objects by key-value pairs - compareObjectsByKeyValuePairs method Compare two objects - v1" time="0.072" classname="Compare two objects - v1">
+    </testcase>
+    <testcase name="MappingUtils - Compar objects by key-value pairs - compareObjectsByKeyValuePairs method Compare two different sized objects - v1" time="0.052" classname="Compare two different sized objects - v1">
+    </testcase>
+    <testcase name="MappingUtils - Compar objects by key-value pairs - compareObjectsByKeyValuePairs method Compare two objects - v2" time="0.048" classname="Compare two objects - v2">
+    </testcase>
+    <testcase name="MappingUtils - Compar objects by key-value pairs - compareObjectsByKeyValuePairs method Compare two different sized objects - v2" time="0.045" classname="Compare two different sized objects - v2">
+    </testcase>
+  </testsuite>
+</testsuites>

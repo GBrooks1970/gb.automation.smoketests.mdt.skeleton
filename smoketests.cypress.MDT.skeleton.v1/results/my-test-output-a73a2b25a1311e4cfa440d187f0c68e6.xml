@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.517" tests="8" failures="0">
+  <testsuite name="Root Suite" timestamp="2025-03-11T10:34:49" tests="0" file="cypress\e2e\util-tests\DataMapper\DataMapper_MapAndflattenObjectData.feature" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="DataMapper - DataMapper.mapAndflattenObjectData" timestamp="2025-03-11T10:34:49" tests="8" time="0.511" failures="0">
+    <testcase name="DataMapper - DataMapper.mapAndflattenObjectData Flatten an object with various options (example #1)" time="0.081" classname="Flatten an object with various options (example #1)">
+    </testcase>
+    <testcase name="DataMapper - DataMapper.mapAndflattenObjectData Flatten an object with various options (example #2)" time="0.042" classname="Flatten an object with various options (example #2)">
+    </testcase>
+    <testcase name="DataMapper - DataMapper.mapAndflattenObjectData Flatten an object with various options (example #3)" time="0.037" classname="Flatten an object with various options (example #3)">
+    </testcase>
+    <testcase name="DataMapper - DataMapper.mapAndflattenObjectData Flatten an object with various options (example #4)" time="0.036" classname="Flatten an object with various options (example #4)">
+    </testcase>
+    <testcase name="DataMapper - DataMapper.mapAndflattenObjectData Flatten an object with various options (example #5)" time="0.034" classname="Flatten an object with various options (example #5)">
+    </testcase>
+    <testcase name="DataMapper - DataMapper.mapAndflattenObjectData Flatten an object with various options (example #6)" time="0.033" classname="Flatten an object with various options (example #6)">
+    </testcase>
+    <testcase name="DataMapper - DataMapper.mapAndflattenObjectData Flatten an object with various options (example #7)" time="0.039" classname="Flatten an object with various options (example #7)">
+    </testcase>
+    <testcase name="DataMapper - DataMapper.mapAndflattenObjectData Flatten an object with various options (example #8)" time="0.037" classname="Flatten an object with various options (example #8)">
+    </testcase>
+  </testsuite>
+</testsuites>

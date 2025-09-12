@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.192" tests="14" failures="0" skipped="14">
+  <testsuite name="Root Suite" timestamp="2025-03-11T10:42:44" tests="0" file="cypress\e2e\util-tests\DataMapper\DataMapper_GetNestedKeys.feature" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="DataMapper - Retrieve all nested property keys from an object" timestamp="2025-03-11T10:42:44" tests="14" time="0.180" failures="0">
+  </testsuite>
+</testsuites>

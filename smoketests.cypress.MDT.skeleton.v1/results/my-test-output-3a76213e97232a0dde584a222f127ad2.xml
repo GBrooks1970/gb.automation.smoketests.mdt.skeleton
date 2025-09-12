@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.582" tests="4" failures="0">
+  <testsuite name="Root Suite" timestamp="2025-03-11T10:02:33" tests="0" file="cypress\e2e\util-tests\MappingUtils\MappingUtils_MapAndParseRecordDataWithSubstituteObj.feature" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="MappingUtils - Map And Parse RecordData with Substitute Object - MapAndParseRecordDataWithSubstituteObj" timestamp="2025-03-11T10:02:33" tests="4" time="0.553" failures="0">
+    <testcase name="MappingUtils - Map And Parse RecordData with Substitute Object - MapAndParseRecordDataWithSubstituteObj Map And Parse - matching properties from DataTable to PlaceOfEducation" time="0.129" classname="Map And Parse - matching properties from DataTable to PlaceOfEducation">
+    </testcase>
+    <testcase name="MappingUtils - Map And Parse RecordData with Substitute Object - MapAndParseRecordDataWithSubstituteObj Map And Parse - Handle missing properties in RecordData" time="0.077" classname="Map And Parse - Handle missing properties in RecordData">
+    </testcase>
+    <testcase name="MappingUtils - Map And Parse RecordData with Substitute Object - MapAndParseRecordDataWithSubstituteObj Map And Parse - matching properties from DataTable to Target Object" time="0.079" classname="Map And Parse - matching properties from DataTable to Target Object">
+    </testcase>
+    <testcase name="MappingUtils - Map And Parse RecordData with Substitute Object - MapAndParseRecordDataWithSubstituteObj Map and Parse - Parsing ONLY Dynamic String and Date Tokens mapped from a substitute object" time="0.132" classname="Map and Parse - Parsing ONLY Dynamic String and Date Tokens mapped from a substitute object">
+    </testcase>
+  </testsuite>
+</testsuites>

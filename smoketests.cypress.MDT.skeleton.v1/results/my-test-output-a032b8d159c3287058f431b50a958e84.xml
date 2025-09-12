@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.090" tests="3" failures="0" skipped="3">
+  <testsuite name="Root Suite" timestamp="2025-03-11T10:15:50" tests="0" file="cypress\e2e\util-tests\examples\data-picker-examples.feature" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Flatten a Complex Data object with multiple lists" timestamp="2025-03-11T10:15:50" tests="3" time="0.085" failures="0">
+  </testsuite>
+</testsuites>

@@ -1,0 +1,19 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "paths": {
+      "@badeball/cypress-cucumber-preprocessor/*": ["./node_modules/@badeball/cypress-cucumber-preprocessor/dist/subpath-entrypoints/*"]
+    },
+    "types": ["cypress", "cy-verify-downloads"],
+    "forceConsistentCasingInFileNames": true,
+    "target": "ES2022",
+    "module": "es2020",
+    "strict": true,
+    "moduleResolution": "node",
+    "importHelpers": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "baseUrl": ".",
+    "noEmit": true
+  }
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.514" tests="8" failures="0">
+  <testsuite name="Root Suite" timestamp="2025-03-11T10:34:53" tests="0" file="cypress\e2e\util-tests\DataMapper\DataMapper_MapObjectWithPropertyPaths.feature" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="DataMapper - Map Object With Dot Separated Property Paths" timestamp="2025-03-11T10:34:53" tests="8" time="0.508" failures="0">
+    <testcase name="DataMapper - Map Object With Dot Separated Property Paths DATAMAPPER-MAP-OBJECTS-PROPERTYPATHS-001 - DataMapper method Map object with property paths (example #1)" time="0.076" classname="DATAMAPPER-MAP-OBJECTS-PROPERTYPATHS-001 - DataMapper method Map object with property paths (example #1)">
+    </testcase>
+    <testcase name="DataMapper - Map Object With Dot Separated Property Paths DATAMAPPER-MAP-OBJECTS-PROPERTYPATHS-001 - DataMapper method Map object with property paths (example #2)" time="0.038" classname="DATAMAPPER-MAP-OBJECTS-PROPERTYPATHS-001 - DataMapper method Map object with property paths (example #2)">
+    </testcase>
+    <testcase name="DataMapper - Map Object With Dot Separated Property Paths DATAMAPPER-MAP-OBJECTS-PROPERTYPATHS-001 - DataMapper method Map object with property paths (example #3)" time="0.034" classname="DATAMAPPER-MAP-OBJECTS-PROPERTYPATHS-001 - DataMapper method Map object with property paths (example #3)">
+    </testcase>
+    <testcase name="DataMapper - Map Object With Dot Separated Property Paths DATAMAPPER-MAP-OBJECTS-PROPERTYPATHS-001 - DataMapper method Map object with property paths (example #4)" time="0.033" classname="DATAMAPPER-MAP-OBJECTS-PROPERTYPATHS-001 - DataMapper method Map object with property paths (example #4)">
+    </testcase>
+    <testcase name="DataMapper - Map Object With Dot Separated Property Paths DATAMAPPER-MAP-OBJECTS-PROPERTYPATHS-002 - DataMapper method Map object with property paths from various predefined objects (example #1)" time="0.038" classname="DATAMAPPER-MAP-OBJECTS-PROPERTYPATHS-002 - DataMapper method Map object with property paths from various predefined objects (example #1)">
+    </testcase>
+    <testcase name="DataMapper - Map Object With Dot Separated Property Paths DATAMAPPER-MAP-OBJECTS-PROPERTYPATHS-002 - DataMapper method Map object with property paths from various predefined objects (example #2)" time="0.036" classname="DATAMAPPER-MAP-OBJECTS-PROPERTYPATHS-002 - DataMapper method Map object with property paths from various predefined objects (example #2)">
+    </testcase>
+    <testcase name="DataMapper - Map Object With Dot Separated Property Paths DATAMAPPER-MAP-OBJECTS-PROPERTYPATHS-002 - DataMapper method Map object with property paths from various predefined objects (example #3)" time="0.033" classname="DATAMAPPER-MAP-OBJECTS-PROPERTYPATHS-002 - DataMapper method Map object with property paths from various predefined objects (example #3)">
+    </testcase>
+    <testcase name="DataMapper - Map Object With Dot Separated Property Paths DATAMAPPER-MAP-OBJECTS-PROPERTYPATHS-002 - DataMapper method Map object with property paths from various predefined objects (example #4)" time="0.039" classname="DATAMAPPER-MAP-OBJECTS-PROPERTYPATHS-002 - DataMapper method Map object with property paths from various predefined objects (example #4)">
+    </testcase>
+  </testsuite>
+</testsuites>

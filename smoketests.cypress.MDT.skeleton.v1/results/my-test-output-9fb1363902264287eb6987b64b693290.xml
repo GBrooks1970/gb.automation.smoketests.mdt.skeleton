@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.080" tests="4" failures="0" skipped="4">
+  <testsuite name="Root Suite" timestamp="2025-03-11T11:11:59" tests="0" file="cypress\e2e\util-tests\element_presence.feature" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Element Presence" timestamp="2025-03-11T11:11:59" tests="4" time="0.075" failures="0">
+  </testsuite>
+</testsuites>

@@ -1,0 +1,175 @@
+{
+    "envName": "EnvironmentName",
+    "endpoints": {
+        "baseUrl": "https://sit-ucascom.ucasenvironments.com/",
+        "baseUrlDigital": "https://sit-digital.ucasenvironments.com/",
+        "baseUrlAccounts": "https://sit-accounts.ucasenvironments.com/",
+        "baseUrlServices": "https://sit-services.ucasenvironments.com/",
+        "accountLogin": "Account/Login",
+        "accountLogout": "Account/Logout",
+        "accountSignedout": "Account/signedout",
+        "accountRequestresetpassword": "Account/requestresetpassword",
+        "topazURL": "http://internal-npsit-topaz-ui-int-alb-1697792916.eu-west-1.elb.amazonaws.com/topaz/login.jsp",
+        "employerSearchVacancyURL": "careerfinder",
+        "b2bhub": "b2bhub",
+        "searchDashboard": "search/dashboard"
+    },
+    "users": {
+        "usertypeLandingPage": {
+            "UCAS": "https://sit-digital.ucasenvironments.com/search/dashboard",
+            "Student": "https://sit-ucascom.ucasenvironments.com/dashboard#/",
+            "Adviser": "https://sit-ucascom.ucasenvironments.com/advisers",
+            "Provider": "https://sit-ucascom.ucasenvironments.com/providers",
+            "Employer": "https://sit-ucascom.ucasenvironments.com/b2bhub"
+        },
+        "userdefault": {
+            "username": "userdefault",
+            "email": "bbtsuperuser@ucas.ac.uk",
+            "password": "F1ndMyBugz!",
+            "passwordChange": "UCASpa$$w0rd002!",
+            "userType": "UCAS"
+        },
+        "userData": [
+            {
+                "username": "UCAS Admin User",
+                "email": "bbtsuperuser@ucas.ac.uk",
+                "password": "F1ndMyBugz!",
+                "passwordChange": "UCASpa$$w0rd002!",
+                "userType": "UCAS"
+            },
+            {
+                "username": "Student.unsubmittedUser001",
+                "email": "bill.matthews69@gmail.com",
+                "password": "!Password01",
+                "passwordChange": "UCASpa$$w0rd002!",
+                "userType": "Student"
+            },
+            {
+                "username": "Student.userType001",
+                "email": "student.usertype001@mailinator.com",
+                "password": "UCASpa$$w0rd001!",
+                "passwordChange": "UCASpa$$w0rd002!",
+                "userType": "Student"
+            },
+            {
+                "username": "Adviser.ViewApplications001",
+                "email": "adviser.usertype001@mailinator.com",
+                "password": "UCASpa$$w0rd001!",
+                "passwordChange": "UCASpa$$w0rd002!",
+                "userType": "Adviser"
+            },
+            {
+                "username": "Provider.userType001",
+                "email": "provider.usertype001@mailinator.com",
+                "password": "UCASpa$$w0rd001!",
+                "passwordChange": "UCASpa$$w0rd002!",
+                "userType": "Provider"
+            },
+            {
+                "username": "Employer.userType001",
+                "email": "employer.usertype001@mailinator.com",
+                "password": "UCASpa$$w0rd001!",
+                "passwordChange": "UCASpa$$w0rd002!",
+                "userType": "Employer"
+            },
+            {
+                "username": "Student.userType002",
+                "email": "student.usertype002@mailinator.com",
+                "password": "UCASpa$$w0rd001!",
+                "passwordChange": "UCASpa$$w0rd002!",
+                "userType": "Student"
+            },
+            {
+                "username": "Student.userType004",
+                "email": "student.usertype004@mailinator.com",
+                "password": "Blandpassword1!",
+                "passwordChange": "Blandpassword02!",
+                "userType": "Student"
+            },
+            {
+                "username": "Adviser.ViewApproveApplications002",
+                "email": "adviser.usertype002@mailinator.com",
+                "password": "UCASpa$$w0rd001!",
+                "passwordChange": "UCASpa$$w0rd002!",
+                "userType": "Adviser"
+            },
+            {
+                "username": "Adviser.ViewDeleteApplications003",
+                "email": "adviser.usertype003@mailinator.com",
+                "password": "UCASpa$$w0rd001!",
+                "passwordChange": "UCASpa$$w0rd002!",
+                "userType": "Adviser"
+            },
+            {
+                "username": "Adviser.ViewDeleteAppViewRef004",
+                "email": "adviser.usertype004@mailinator.com",
+                "password": "UCASpa$$w0rd001!",
+                "passwordChange": "UCASpa$$w0rd002!",
+                "userType": "Adviser"
+            },
+            {
+                "username": "Adviser.ViewDeleteAppEditRef005",
+                "email": "adviser.usertype005@mailinator.com",
+                "password": "UCASpa$$w0rd001!",
+                "passwordChange": "UCASpa$$w0rd002!",
+                "userType": "Adviser"
+            },
+            {
+                "username": "Adviser.ViewApproveDeleteAppEditApproveRef006",
+                "email": "adviser.usertype006@mailinator.com",
+                "password": "UCASpa$$w0rd001!",
+                "passwordChange": "UCASpa$$w0rd002!",
+                "userType": "Adviser"
+            },
+            {
+                "username": "Adviser.ManageCentreAndGroups007",
+                "email": "adviser.usertype007@mailinator.com",
+                "password": "UCASpa$$w0rd001!",
+                "passwordChange": "UCASpa$$w0rd002!",
+                "userType": "Adviser"
+            },
+            {
+                "username": "Adviser.ManageCentre008",
+                "email": "adviser.usertype008@mailinator.com",
+                "password": "UCASpa$$w0rd001!",
+                "passwordChange": "UCASpa$$w0rd002!",
+                "userType": "Adviser"
+            },
+            {
+                "username": "Adviser.ViewDataReports009",
+                "email": "adviser.usertype009@mailinator.com",
+                "password": "UCASpa$$w0rd001!",
+                "passwordChange": "UCASpa$$w0rd002!",
+                "userType": "Adviser"
+            },
+            {
+                "username": "Adviser.ViewOffersDecisions010",
+                "email": "adviser.usertype010@mailinator.com",
+                "password": "UCASpa$$w0rd001!",
+                "passwordChange": "UCASpa$$w0rd002!",
+                "userType": "Adviser"
+            },
+            {
+                "username": "Adviser.ViewApproveDeleteApplications011",
+                "email": "adviser.usertype011@mailinator.com",
+                "password": "UCASpa$$w0rd001!",
+                "passwordChange": "UCASpa$$w0rd002!",
+                "userType": "Adviser"
+            },
+            {
+                "username": "Adviser.ViewApproveDeleteAppEditApproveRefManageCentre012",
+                "email": "adviser.usertype012@mailinator.com",
+                "password": "UCASpa$$w0rd001!",
+                "passwordChange": "UCASpa$$w0rd002!",
+                "userType": "Adviser"
+            },
+            {
+                "username": "Adviser.HubReporting013OtherCentre",
+                "email": "adviser.usertype013@mailinator.com",
+                "password": "UCASpa$$w0rd001!",
+                "passwordChange": "UCASpa$$w0rd002!",
+                "userType": "Adviser"
+            }
+        ]
+    }
+}

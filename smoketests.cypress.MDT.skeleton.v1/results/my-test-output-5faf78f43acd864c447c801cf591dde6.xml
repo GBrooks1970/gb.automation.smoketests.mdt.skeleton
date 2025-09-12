@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.086" tests="2" failures="0" skipped="2">
+  <testsuite name="Root Suite" timestamp="2025-03-11T10:34:15" tests="0" file="cypress\e2e\EXAMPLE\UG-APPLY-ED\ug-apply-ed-f.feature" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="A Student can remove a Place of Education" timestamp="2025-03-11T10:34:15" tests="2" time="0.065" failures="0">
+  </testsuite>
+</testsuites>

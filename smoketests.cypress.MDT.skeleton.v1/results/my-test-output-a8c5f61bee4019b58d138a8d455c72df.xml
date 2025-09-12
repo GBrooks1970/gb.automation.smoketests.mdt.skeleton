@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.104" tests="9" failures="0" skipped="9">
+  <testsuite name="Root Suite" timestamp="2025-03-11T10:15:18" tests="0" file="cypress\e2e\util-tests\DataMapper\DataMapper_GenerateEmptyObject.feature" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="DataMapper - Generate Empty Object from Interface" timestamp="2025-03-11T10:15:18" tests="9" time="0.097" failures="0">
+  </testsuite>
+</testsuites>

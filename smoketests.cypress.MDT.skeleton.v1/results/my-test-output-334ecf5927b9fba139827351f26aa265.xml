@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.094" tests="3" failures="0" skipped="3">
+  <testsuite name="Root Suite" timestamp="2025-03-11T10:41:55" tests="0" file="cypress\e2e\EXAMPLE\UG-APPLY-ED\ug-apply-ed-a.feature" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Student can capture Education details" timestamp="2025-03-11T10:41:55" tests="3" time="0.087" failures="0">
+  </testsuite>
+</testsuites>

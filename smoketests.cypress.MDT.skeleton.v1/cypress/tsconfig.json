@@ -1,0 +1,17 @@
+{
+  "extends": "../tsconfig.json",
+  "include": [
+    "**/*.ts"
+  ],
+  "compilerOptions": {
+    "sourceMap": false,
+    "types": [
+      "cypress",
+      "node"
+    ],
+    "lib": [
+      "es2020",
+      "dom"
+    ]
+  }
+}

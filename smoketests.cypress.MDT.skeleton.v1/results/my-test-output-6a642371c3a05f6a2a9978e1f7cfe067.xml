@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.172" tests="2" failures="0">
+  <testsuite name="Root Suite" timestamp="2025-03-11T11:14:08" tests="0" file="cypress\e2e\util-tests\Scenario_Context_Management\Scenario_Context_Management-B.feature" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Scenario_Context - Scenario Context Management" timestamp="2025-03-11T11:14:08" tests="2" time="0.162" failures="0">
+    <testcase name="Scenario_Context - Scenario Context Management Scenario_Context_Management-B-001 - Add and retrieve scenario context" time="0.063" classname="Scenario_Context_Management-B-001 - Add and retrieve scenario context">
+    </testcase>
+    <testcase name="Scenario_Context - Scenario Context Management Scenario_Context_Management-B-002 - Add and retrieve multiple scenario contexts" time="0.051" classname="Scenario_Context_Management-B-002 - Add and retrieve multiple scenario contexts">
+    </testcase>
+  </testsuite>
+</testsuites>

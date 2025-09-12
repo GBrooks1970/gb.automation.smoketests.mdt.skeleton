@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.106" tests="6" failures="0" skipped="6">
+  <testsuite name="Root Suite" timestamp="2025-03-11T10:50:27" tests="0" file="cypress\e2e\util-tests\DataMapper\DataMapper_GenerateFieldDetail_BaseArray.feature" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="DataMapper - Generate FieldDetails Array Methods" timestamp="2025-03-11T10:50:27" tests="6" time="0.098" failures="0">
+  </testsuite>
+</testsuites>

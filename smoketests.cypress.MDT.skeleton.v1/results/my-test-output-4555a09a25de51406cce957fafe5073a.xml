@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.087" tests="3" failures="0" skipped="3">
+  <testsuite name="Root Suite" timestamp="2025-03-11T10:35:51" tests="0" file="cypress\e2e\util-tests\MappingUtils\MappingUtils_parseRecordDataSymbolToken.feature" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="MappingUtils - Parse Record Data Symbol Token - parseRecordDataSymbolToken method" timestamp="2025-03-11T10:35:51" tests="3" time="0.068" failures="0">
+  </testsuite>
+</testsuites>

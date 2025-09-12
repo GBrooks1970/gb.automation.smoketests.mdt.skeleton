@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.320" tests="4" failures="0">
+  <testsuite name="Root Suite" timestamp="2025-03-11T10:43:35" tests="0" file="cypress\e2e\util-tests\MappingUtils\MappingUtils_mapRecordDataTotargetObj.feature" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="MappingUtils - Map RecordData to Target Object - mapRecordDataToTargetObj method" timestamp="2025-03-11T10:43:35" tests="4" time="0.314" failures="0">
+    <testcase name="MappingUtils - Map RecordData to Target Object - mapRecordDataToTargetObj method Map matching properties from RecordData to PlaceOfEducation" time="0.101" classname="Map matching properties from RecordData to PlaceOfEducation">
+    </testcase>
+    <testcase name="MappingUtils - Map RecordData to Target Object - mapRecordDataToTargetObj method Handle extra properties in RecordData" time="0.045" classname="Handle extra properties in RecordData">
+    </testcase>
+    <testcase name="MappingUtils - Map RecordData to Target Object - mapRecordDataToTargetObj method Handle missing properties in RecordData" time="0.043" classname="Handle missing properties in RecordData">
+    </testcase>
+    <testcase name="MappingUtils - Map RecordData to Target Object - mapRecordDataToTargetObj method Map matching properties from RecordData to WorkExperience" time="0.046" classname="Map matching properties from RecordData to WorkExperience">
+    </testcase>
+  </testsuite>
+</testsuites>

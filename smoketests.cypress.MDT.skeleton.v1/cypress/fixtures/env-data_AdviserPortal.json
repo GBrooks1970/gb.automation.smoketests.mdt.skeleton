@@ -1,0 +1,377 @@
+{
+    "CycleYearDetails": {
+        "CurrentCycleYear": "2024",
+        "MaxSupportedCycleYear": "2025"
+    },
+    "ApplicationsData": {
+        "EmailApplicantDetails": [
+            {
+                "AdviserName": "Automation Adviser One",
+                "Subject": "Application Deadline Approaching",                  
+                "Message": "I hope you're doing well. This is a reminder that the deadline for your university application is approaching soon. Make sure the application has been submitted by the 01 June 2024.\n\nIf you have any questions or need assistance, please don't hesitate to contact me."
+            }
+        ],
+         "EmailTrackedApplicantDetails": [
+            {
+                "AdviserName": "Automation Adviser One",
+                "Subject": "Important: Next Steps for Your University Offers",                  
+                "Message": "Congratulations on receiving offers from UK universities! This is an exciting time, and Im here to support you in making the best choice for your studies. Please review your offers carefully and reach out if you have any questions or need guidance on the next steps.\n\nEach offer has its own response deadline, so I encourage you to act promptly to secure your place. Let me know if you'd like to discuss your options or if there is anything I can assist with.\n\nBest regards,\nUK Adviser One"
+            }
+         ],
+        "ApplicantDetails": [
+            {
+                "PID": "1200006560",
+                "FirstName": "Lee",
+                "LastName": "Izaan",
+                "CycleYear": "[Max Supported Cycle]",
+                "ApplicationStatus": "In progress",
+                "QualificationsChecked": true,
+                "Deleted": false,
+                "AdviserNotes": "This is a Test note",
+                "ReferenceStatus": "In progress",
+                "ReferenceDetails": {
+                    "RefereeName": "Automation Referee Tester",
+                    "ReferenceGeneralStatement": "Our school is committed to fostering academic excellence and holistic development among our students. We provide a dynamic learning environment that encourages critical thinking, creativity, and collaboration. Our dedicated faculty and staff work closely with students to ensure they reach their full potential and achieve their educational goals.",
+                    "ReferenceExtenuatingCircumstances": "The applicant has demonstrated exceptional resilience and determination despite facing challenging personal circumstances during their academic journey. These challenges included significant health issues in their family, which required the applicant to take on additional responsibilities at home. Despite these challenges, the applicant has consistently maintained strong academic performance and actively contributed to extracurricular activities.",
+                    "ReferenceOther": "The applicant has a keen interest in environmental science, which is evident from their active involvement in our school's sustainability club. They have led several initiatives to promote environmental awareness within the school community. Additionally, the applicant completed an internship at a local environmental organization, gaining hands-on experience in the field. Their passion and practical experience make them an excellent candidate for programs related to environmental studies or biology.",
+                    "ReferenceDatesUnavailable": "[BLANK]"
+                },
+                "PredictedGradesApplicable": false,
+                "PredictedGrade": "[IGNORE]",
+                "DataUpdates": {
+                    "RefereeName": "BDD Automation Referee",
+                    "ReferenceGeneralStatement": "At BDD Automation UI Tests, we are dedicated to cultivating a culture of lifelong learning and personal growth. We strive to empower our students with the knowledge, skills, and values essential for success in an ever-changing world. Our innovative curriculum emphasizes not only academic rigor but also the development of resilience, empathy, and global citizenship. Through engaging experiences both inside and outside the classroom, we inspire curiosity, foster leadership, and nurture a strong sense of community among our students and faculty.",
+                    "ReferenceExtenuatingCircumstances": "During their time at our institution, the applicant faced considerable adversity due to economic hardship within their family. Despite these financial challenges, the applicant exhibited unwavering dedication to their studies and extracurricular commitments. Their resilience was especially evident when they took on part-time work to support themselves and contribute to family expenses. Throughout these difficulties, the applicant demonstrated remarkable perseverance, maintaining excellent academic standing and actively engaging in community service initiatives. Their ability to thrive amidst adversity underscores their exceptional character and determination.",
+                    "ReferenceOther": "The applicant has consistently demonstrated a strong passion for technology and innovation throughout their academic journey. Their enthusiasm for computer science is evidenced by their active participation in coding competitions and tech-focused clubs. Notably, the applicant spearheaded a school project that involved developing a mobile application to address a local community need, showcasing both their technical skills and problem-solving abilities.\n\nMoreover, the applicant pursued internships with leading tech companies during summer breaks, gaining invaluable hands-on experience in software development and project management. Their exceptional performance and innovative mindset during these internships underscore their readiness for advanced studies and professional growth in the field of computer science or software engineering.",
+                    "ReferenceDatesUnavailable": "2024-08-20",
+                    "AdviserNotes": "This is my Adviser notes update",
+                    "PredictedGrade": "[IGNORE]"
+                }
+            },
+            {
+                "PID": "1200006661",
+                "FirstName": "Gabe",
+                "LastName": "Kamauri",
+                "CycleYear": "[Max Supported Cycle]",
+                "ApplicationStatus": "Awaiting approval",
+                "QualificationsChecked": false,
+                "Deleted": false,
+                "AdviserNotes": "[BLANK]",
+                "ReferenceStatus": "Awaiting approval",
+                "ReferenceDetails": {
+                    "RefereeName": "Automation Referee Tester",
+                    "ReferenceGeneralStatement": "At Automation BDD UI Tests, we pride ourselves on fostering a supportive and inclusive learning environment. Our institution emphasizes academic rigor coupled with personalized guidance to help students excel in their chosen paths. We offer a range of extracurricular opportunities to nurture well-rounded individuals ready to take on the challenges of higher education",
+                    "ReferenceExtenuatingCircumstances": "The applicant has demonstrated remarkable perseverance in their academic journey despite facing financial hardships. They come from a single-parent household and have had to work part-time to support their family. Despite these challenges, the applicant has consistently maintained strong grades and actively participated in school activities, displaying exceptional time management and dedication to their studies.",
+                    "ReferenceOther": "The applicant has a strong passion for computer science, evident from their participation in coding competitions and creation of innovative projects showcased at our school's technology fair. They have also volunteered to assist in computer literacy workshops for underprivileged children in our community. The applicant's hands-on experience and enthusiasm for technology make them an ideal candidate for computer science programs.",
+                    "ReferenceDatesUnavailable": "[BLANK]"
+                },
+                "PredictedGradesApplicable": false,
+                "PredictedGrade": "[IGNORE]",
+                "DataUpdates": {
+                    "RefereeName": "BDD Automation Referee",
+                    "ReferenceGeneralStatement": "At Excel Academia, we are dedicated to empowering our students to reach their full potential academically, socially, and personally. Our institution is committed to providing a nurturing and stimulating learning environment that encourages critical thinking, creativity, and lifelong learning. We prioritize individualized attention and mentorship, ensuring that each student receives the support they need to thrive.\n\nThrough our comprehensive curriculum and diverse extracurricular programs, we aim to cultivate well-rounded individuals equipped with essential skills and a global perspective. Our goal is to inspire a passion for learning and personal growth while preparing our students for success in higher education and beyond.",
+                    "ReferenceExtenuatingCircumstances": "Throughout their academic career, the applicant has exhibited extraordinary resilience in the face of significant personal challenges. Growing up in a foster care system, the applicant has had to navigate numerous transitions and uncertainties. Despite these obstacles, they have shown unwavering determination and dedication to their education.\n\nNotably, the applicant has taken on leadership roles in student organizations and community initiatives, demonstrating impressive leadership skills and a commitment to making a positive impact. Their ability to excel academically while overcoming adversity is a testament to their strength of character and perseverance.",
+                    "ReferenceOther": "The applicant has demonstrated a deep interest in the field of visual arts throughout their academic journey. Their commitment to artistic expression is evident from their active involvement in our school's art club and participation in regional art exhibitions. The applicant's creativity shines through their portfolio of original artwork, showcasing a diverse range of styles and techniques.\n\nMoreover, the applicant has volunteered their artistic talents to enrich our school community, contributing to murals and installations that have enhanced our campus environment. Their dedication to the arts, coupled with their strong work ethic and artistic vision, makes them an exceptional candidate for programs focused on fine arts, graphic design, or visual communication.",
+                    "ReferenceDatesUnavailable": "2024-08-24",
+                    "AdviserNotes": "The Application is now ready to be reviewed for approval.",
+                    "PredictedGrade": "[IGNORE]"
+                }
+            },
+            {
+                "PID": "1200006762",
+                "FirstName": "Arkham",
+                "LastName": "Eliya",
+                "CycleYear": "[Max Supported Cycle]",
+                "ApplicationStatus": "Approved",
+                "QualificationsChecked": false,
+                "Deleted": false,
+                "AdviserNotes": "[BLANK]",
+                "ReferenceStatus": "Approved",
+                "ReferenceDetails": {
+                    "RefereeName": "Automation Referee Tester",
+                    "ReferenceGeneralStatement": "Our school, Automated BDD UI Tests, is committed to fostering academic excellence and holistic development among our students. We provide a supportive learning environment enriched with diverse opportunities for personal and academic growth.",
+                    "ReferenceExtenuatingCircumstances": "I would like to highlight that Leon Dudley has demonstrated remarkable dedication and resilience despite facing personal challenges. His commitment to his studies and extracurricular activities is especially commendable given his family's recent relocation, which required significant adjustment.",
+                    "ReferenceOther": "Leon Dudley has shown exceptional aptitude and passion for mechanical engineering throughout his time at Automated BDD UI Tests. He has actively participated in robotics competitions and leadership roles within our engineering club, demonstrating advanced problem-solving skills and a deep understanding of engineering principles.\n\nLeon's enthusiasm for engineering is infectious, and his ability to collaborate effectively in team settings makes him a valuable asset in any academic or project-based environment. His practical experience, coupled with his academic achievements, positions him as a highly capable and motivated candidate for mechanical engineering programs.\n\nI am confident that Leon's academic abilities, interpersonal skills, and genuine passion for engineering make him an excellent fit for your university's mechanical engineering program. He has my highest recommendation without reservation.\n\nPlease do not hesitate to contact me if you require further information regarding Leon's academic performance and character.",
+                    "ReferenceDatesUnavailable": "2024-05-26"
+                },
+                "PredictedGradesApplicable": false,
+                "PredictedGrade": "[IGNORE]",
+                "DataUpdates": {
+                    "RefereeName": "BDD Automation Referee",
+                    "ReferenceGeneralStatement": "[IGNORE]",
+                    "ReferenceExtenuatingCircumstances": "[IGNORE]",
+                    "ReferenceOther": "[IGNORE]",
+                    "ReferenceDatesUnavailable": "2024-06-24",
+                    "AdviserNotes": "The application can now be sent to UCAS",
+                    "PredictedGrade": "[IGNORE]"
+                }
+            },
+            {
+                "PID": "1200006863",
+                "FirstName": "Mehaan",
+                "LastName": "Aharon",
+                "CycleYear": "[Max Supported Cycle]",
+                "ApplicationStatus": "Sent",
+                "QualificationsChecked": false,
+                "Deleted": false,
+                "AdviserNotes": "[BLANK]",
+                "ReferenceStatus": "Approved",
+                "ReferenceDetails": {
+                    "RefereeName": "Automation Referee Tester",
+                    "ReferenceGeneralStatement": "Our institution is dedicated to nurturing academic excellence and personal growth among our students. We provide a stimulating learning environment supported by experienced educators and comprehensive resources. Our diverse student body enriches our community and fosters global perspectives.",
+                    "ReferenceExtenuatingCircumstances": "The applicant has demonstrated exceptional resilience and determination despite relocating from Argentina to pursue their education in a new country. Adapting to a different educational system and culture presented challenges, yet the applicant has shown remarkable academic progress and integration within our school community.",
+                    "ReferenceOther": "The applicant has a strong passion for international relations, evident from their involvement in Model United Nations conferences and leadership roles within our school's debate club. They have a keen interest in global affairs and have actively engaged in community service projects related to promoting cultural understanding. The applicant's international background and enthusiasm make them an ideal candidate for programs in international studies or political science.",
+                    "ReferenceDatesUnavailable": "[BLANK]"
+                },
+                "PredictedGradesApplicable": false,
+                "PredictedGrade": "[IGNORE]",
+                "DataUpdates": {
+                    "RefereeName": "[IGNORE]",
+                    "ReferenceGeneralStatement": "[IGNORE]",
+                    "ReferenceExtenuatingCircumstances": "[IGNORE]",
+                    "ReferenceOther": "[IGNORE]",
+                    "ReferenceDatesUnavailable": "[IGNORE]",
+                    "AdviserNotes": "[IGNORE]",
+                    "PredictedGrade": "[IGNORE]"
+                }
+            },
+            {
+                "PID": "1200012060",
+                "FirstName": "Kamrin",
+                "LastName": "Stoney",
+                "CycleYear": "[Max Supported Cycle]",
+                "ApplicationStatus": "In progress",
+                "QualificationsChecked": false,
+                "Deleted": false,
+                "AdviserNotes": "This is a Test note",
+                "ReferenceStatus": "In progress",
+                "ReferenceDetails": {
+                    "RefereeName": "[BLANK]",
+                    "ReferenceGeneralStatement": "[BLANK]",
+                    "ReferenceExtenuatingCircumstances": "The applicant has demonstrated exceptional resilience and determination despite relocating from Argentina to pursue their education in a new country. Adapting to a different educational system and culture presented challenges, yet the applicant has shown remarkable academic progress and integration within our school community.",
+                    "ReferenceOther": "The applicant has a strong passion for international relations, evident from their involvement in Model United Nations conferences and leadership roles within our school's debate club. They have a keen interest in global affairs and have actively engaged in community service projects related to promoting cultural understanding. The applicant's international background and enthusiasm make them an ideal candidate for programs in international studies or political science.",
+                    "ReferenceDatesUnavailable": "[BLANK]"
+                },
+                "PredictedGradesApplicable": true,
+                "PredictedGrade": "[BLANK]",
+                "DataUpdates": {
+                    "RefereeName": "Automation Referee Tester",
+                    "ReferenceGeneralStatement": "At Automation BDD UI Tests, we are committed to fostering a culture of intellectual curiosity and personal development. Our institution prioritizes academic excellence through innovative teaching methods and a curriculum designed to challenge and inspire our students. We believe in the power of education to transform lives and empower individuals to contribute meaningfully to society.\n\nOur dedicated faculty members, with their diverse backgrounds and expertise, provide mentorship and support to students, ensuring that each individual receives personalized attention and guidance. We celebrate diversity and cultivate an inclusive environment where students from various backgrounds can thrive and learn from one another, promoting cultural understanding and global citizenship.\n\nThrough a combination of rigorous academics, extracurricular opportunities, and community engagement, we prepare our students to excel academically and become well-rounded leaders poised to tackle the complexities of our interconnected world.",
+                    "ReferenceExtenuatingCircumstances": "Throughout their academic journey, the applicant has exhibited remarkable perseverance in overcoming significant health challenges. Despite managing a chronic illness, the applicant has consistently excelled in their studies and actively contributed to extracurricular activities. Their resilience and positive attitude in the face of adversity serve as an inspiration to peers and faculty alike.\n\nThe applicant's determination to succeed, coupled with their compassionate nature, has made a profound impact on our school community. They have demonstrated exceptional time management skills and a strong commitment to their academic and personal goals despite the obstacles they have faced.\n\nTheir ability to navigate these challenges with grace and determination speaks volumes about their character and unwavering dedication to their education.",
+                    "ReferenceOther": "The applicant has demonstrated a profound commitment to environmental sustainability throughout their academic journey. Their passion for ecological conservation is evident from their leadership roles in our school's Eco Club and participation in community clean-up initiatives. The applicant has also undertaken independent research projects focused on environmental issues, showcasing their dedication to understanding and addressing pressing global challenges.\n\nMoreover, the applicant's advocacy for sustainable practices extends beyond academics, as they have actively promoted eco-friendly behaviors within our school and local community. Their hands-on experience and proactive approach make them a standout candidate for programs related to environmental science, sustainability studies, or ecology.",
+                    "ReferenceDatesUnavailable": "2024-05-01 - 2024-05-15",
+                    "AdviserNotes": "Need to arrange a meeting with the Applicant to discuss the appication",
+                    "PredictedGrade": "A"
+                }
+            },
+            {
+                "PID": "1200012161",
+                "FirstName": "Aryash",
+                "LastName": "Kyndall",
+                "CycleYear": "[Max Supported Cycle]",
+                "ApplicationStatus": "In progress",
+                "QualificationsChecked": false,
+                "Deleted": true,
+                "AdviserNotes": "[BLANK]",
+                "ReferenceStatus": "Not started",
+                "ReferenceDetails": {
+                    "RefereeName": "[BLANK]",
+                    "ReferenceGeneralStatement": "[BLANK]",
+                    "ReferenceExtenuatingCircumstances": "[BLANK]",
+                    "ReferenceOther": "[BLANK]",
+                    "ReferenceDatesUnavailable": "[BLANK]"
+                },                      
+                "PredictedGradesApplicable": false,
+                "PredictedGrade": "[IGNORE]",
+                "DataUpdates": {
+                    "RefereeName": "[IGNORE]",
+                    "ReferenceGeneralStatement": "[IGNORE]",
+                    "ReferenceExtenuatingCircumstances": "[IGNORE]",
+                    "ReferenceOther": "[IGNORE]",
+                    "ReferenceDatesUnavailable": "[IGNORE]",
+                    "AdviserNotes": "[BLANK]",
+                    "PredictedGrade": "[IGNORE]"
+                }
+            }
+        ]
+    },
+    "CentresData": {
+        "CentreDetails": {
+            "Name": "Automated BDD UI Tests",
+            "CentreNumber": "99772",
+            "CentreType": "Unknown",
+            "Address": {
+                "AddressLines": [
+                    "1 Cheltenham Street",
+                    "Line 2",
+                    "Line 3",
+                    "Line 4"
+                ],
+                "PostCode": "GL55 6TT"
+            },
+            "Email": "[BLANK]",
+            "TelephoneNumber": "07729863255",
+            "DatesUnavailable": "[BLANK]",
+            "DataUpdates": {
+                "UKAddresses": [
+                    {
+                        "AddressLines": [
+                            "25 Oak Lane",
+                            "Hillside",
+                            "Bristol",
+                            "Avon"
+                        ],
+                        "PostCode": "BS4 3AB"
+                    } 
+                ],
+                "NonUKAddresses": [
+                    {
+                        "AddressLines": [
+                            "123 Main Street",
+                            "Apt 456",
+                            "Anytown",
+                            "Province"
+                        ],
+                        "Country": "United States of America"
+                    }
+                ],
+                "EmailAddresses": [
+                    "automation@test.com"
+                ],
+                "TelephoneNumbers": [
+                    "01244 554771"
+                ],
+                "DatesUnavailable": [
+                    "2024-06-22"
+                ]
+            }
+        },
+        "ContactDetails": [
+            {
+                "ContactName": "Testcontact@email.com",
+                "JobTitle": "Test contact",
+                "Role": "UCAS Correspondent",
+                "Address": {
+                    "AddressLines": [
+                        "1 Cheltenham Street",
+                        "Line 2",
+                        "Line 3",
+                        "Line 4"
+                    ],
+                    "PostCode": "GL55 6TT"
+                },
+                "Email": "[BLANK]",
+                "PhoneNumber": "[BLANK]"
+            },
+            {
+                "ContactName": "Test Contact 2",
+                "JobTitle": "[BLANK]",
+                "Role": "[BLANK]",
+                "Address": {
+                    "AddressLines": [
+                        "[BLANK]",
+                        "[BLANK]",
+                        "[BLANK]"
+                    ],
+                    "PostCode": "[BLANK]"
+                },
+                "Email": "Testcontact2@email.com",
+                "PhoneNumber": "[BLANK]"
+            }
+        ],
+        "BuzzwordDetails": {
+            "Buzzword": "AutomatedBDDUI2025",
+            "DataUpdates": {
+                "Buzzword": "AutomatedBDDUI2025Updated"
+            }
+        },
+        "FeePaymentMethodDetails": [
+            {
+                "FeePaymentMethodName": "Invoice",
+                "Description": "UCAS will send your centre an invoice (applicants should not send payments directly to UCAS)"
+            }
+        ],
+        "GroupDetails": [
+            {
+                "GroupName": "Test Group One" 
+            }
+        ],
+        "QualificationDetails": [
+            {
+                "QualGroup": "Graded music, dance, drama",
+                "QualName": "GCE Advanced Level"
+            }
+        ],
+        "MandatoryRefereeDetails": [
+            {
+                "RefereeName": "Automation Referee Tester",
+                "Occupation": "Automation Referee",
+                "Email": "automationReferee@test.com",
+                "Phone": "07729863255",
+                "CentreName": "Automated BDD UI Tests",
+                "Address": {
+                    "AddressLines": [
+                        "1 Cheltenham Street",
+                        "Line 2",
+                        "Line 3"
+                    ],
+                    "PostCode": "GL55 6TT"
+                }
+            },
+            {
+                "RefereeName": "BDD Automation Referee",
+                "Occupation": "Automation Referee",
+                "Email": "testmail@test.com",
+                "Phone": "07729863255",
+                "CentreName": "Automated BDD UI Tests",
+                "Address": {
+                    "AddressLines": [
+                        "1 Cheltenham Street",
+                        "Line 2",
+                        "Line 3"
+                    ],
+                    "PostCode": "GL55 6TT"
+                }
+            }
+        ],
+        "AdditionalRefereeDetails": [
+            {
+                "RefereeName": "Test Referee One",
+                "Occupation": "Tester One",
+                "Email": "Test@RefereeOne.com",
+                "Phone": "07728741154",
+                "CentreName": "Automated BDD UI Tests",
+                "Address": {
+                    "AddressLines": [
+                        "1 Cheltenham Street",
+                        "Line 2",
+                        "Line 3"
+                    ],
+                    "PostCode": "GL55 6TT"
+                }
+            }
+        ],
+        "ReferenceTemplateTextDetails": {
+            "ReferenceTemplateText": "Reference Template Text",
+            "DataUpdates": {
+                "ReferenceTemplateText": "Updated Reference Template Text"
+            }
+        },
+        "OtherCentreDetails": {
+            "CentreNumber": "15280",
+            "CentreName": "Churchdown School"
+        }
+    },
+    "StudentHubActivityDetails": {
+        "FirstName": "Jossiah",
+        "LastName": "Khang",
+        "IntendedYearOfApplication": "2025",
+        "OtherSchemes": [
+            "Apprenticeships"
+        ],
+        "Subjects": [
+            "Accounting and finance"
+        ],
+        "LastLogin": "22 May 2024 07:44" 
+    }
+}

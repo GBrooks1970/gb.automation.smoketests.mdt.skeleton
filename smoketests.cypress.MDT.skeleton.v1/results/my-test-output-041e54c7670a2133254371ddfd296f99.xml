@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.290" tests="47" failures="0" skipped="47">
+  <testsuite name="Root Suite" timestamp="2025-03-11T11:13:12" tests="0" file="cypress\e2e\util-tests\DataMapper\DataMapper_Methods.feature" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="DataMapper - Map And Flatten Objects Methods" timestamp="2025-03-11T11:13:12" tests="47" time="0.284" failures="0">
+  </testsuite>
+</testsuites>

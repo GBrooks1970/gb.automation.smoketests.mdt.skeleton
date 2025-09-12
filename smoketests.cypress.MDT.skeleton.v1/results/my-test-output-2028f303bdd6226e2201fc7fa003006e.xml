@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.088" tests="2" failures="0" skipped="2">
+  <testsuite name="Root Suite" timestamp="2025-03-11T10:16:49" tests="0" file="cypress\e2e\util-tests\shared-context-test\shared-context-test.feature" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Demonstrate Sharing Mocha context - sharing of the User object and changing its properties" timestamp="2025-03-11T10:16:49" tests="2" time="0.076" failures="0">
+  </testsuite>
+</testsuites>

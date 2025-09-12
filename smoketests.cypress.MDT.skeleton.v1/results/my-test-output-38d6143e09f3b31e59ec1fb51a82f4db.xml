@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.570" tests="6" failures="0">
+  <testsuite name="Root Suite" timestamp="2025-03-11T11:14:15" tests="0" file="cypress\e2e\util-tests\Scenario_Context_Management\Scenario_Context_Management-D.feature" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Scenario_Context - Scenario Context Management Another Feature file" timestamp="2025-03-11T11:14:15" tests="6" time="0.564" failures="0">
+    <testcase name="Scenario_Context - Scenario Context Management Another Feature file Scenario_Context_Management-D-001 - Add and retrieve scenario context in another feature file" time="0.077" classname="Scenario_Context_Management-D-001 - Add and retrieve scenario context in another feature file">
+    </testcase>
+    <testcase name="Scenario_Context - Scenario Context Management Another Feature file Scenario_Context_Management-D-002 - Add and retrieve multiple scenario contexts in another feature file" time="0.059" classname="Scenario_Context_Management-D-002 - Add and retrieve multiple scenario contexts in another feature file">
+    </testcase>
+    <testcase name="Scenario_Context - Scenario Context Management Another Feature file Scenario_Context_Management-D-003 - Add and retrieve multiple scenario contexts in another test in another feature file" time="0.050" classname="Scenario_Context_Management-D-003 - Add and retrieve multiple scenario contexts in another test in another feature file">
+    </testcase>
+    <testcase name="Scenario_Context - Scenario Context Management Another Feature file Scenario_Context_Management-D-004 - Get nested keys from various predefined objects (example #1)" time="0.056" classname="Scenario_Context_Management-D-004 - Get nested keys from various predefined objects (example #1)">
+    </testcase>
+    <testcase name="Scenario_Context - Scenario Context Management Another Feature file Scenario_Context_Management-D-005 - Get nested keys from various predefined objects (example #1)" time="0.103" classname="Scenario_Context_Management-D-005 - Get nested keys from various predefined objects (example #1)">
+    </testcase>
+    <testcase name="Scenario_Context - Scenario Context Management Another Feature file Scenario_Context_Management-D-006 - Add and update Topaz Applicant within Scenerio Context (example #1)" time="0.065" classname="Scenario_Context_Management-D-006 - Add and update Topaz Applicant within Scenerio Context (example #1)">
+    </testcase>
+  </testsuite>
+</testsuites>

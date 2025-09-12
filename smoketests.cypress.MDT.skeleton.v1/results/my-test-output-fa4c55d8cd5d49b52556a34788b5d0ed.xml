@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="3.422" tests="47" failures="0">
+  <testsuite name="Root Suite" timestamp="2025-03-11T10:35:00" tests="0" file="cypress\e2e\util-tests\DataMapper\DataMapper_Methods.feature" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="DataMapper - Map And Flatten Objects Methods" timestamp="2025-03-11T10:35:01" tests="47" time="3.403" failures="0">
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #1)" time="0.086" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #1)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #2)" time="0.051" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #2)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #3)" time="0.060" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #3)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #4)" time="0.046" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #4)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #5)" time="0.047" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #5)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #6)" time="0.041" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #6)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #7)" time="0.043" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #7)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #8)" time="0.042" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #8)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #9)" time="0.042" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #9)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #10)" time="0.047" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #10)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #11)" time="0.048" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #11)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #12)" time="0.041" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #12)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #13)" time="0.042" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #13)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #14)" time="0.045" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #14)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #15)" time="0.049" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #15)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #16)" time="0.051" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #16)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #17)" time="0.060" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #17)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #18)" time="0.058" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #18)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #19)" time="0.049" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #19)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #20)" time="0.055" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #20)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #21)" time="0.046" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #21)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #22)" time="0.050" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #22)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #23)" time="0.048" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #23)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #24)" time="0.065" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #24)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #25)" time="0.058" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #25)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #26)" time="0.040" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #26)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #27)" time="0.046" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #27)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #28)" time="0.044" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #28)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #29)" time="0.036" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #29)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #30)" time="0.041" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #30)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #31)" time="0.043" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #31)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #32)" time="0.040" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #32)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #33)" time="0.038" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #33)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #34)" time="0.036" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #34)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #35)" time="0.040" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #35)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #36)" time="0.036" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #36)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #37)" time="0.034" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #37)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #38)" time="0.039" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #38)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #39)" time="0.035" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #39)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #40)" time="0.037" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #40)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #41)" time="0.042" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #41)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #42)" time="0.040" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #42)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #43)" time="0.050" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #43)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #44)" time="0.046" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #44)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #45)" time="0.043" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #45)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #46)" time="0.046" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #46)">
+    </testcase>
+    <testcase name="DataMapper - Map And Flatten Objects Methods DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #47)" time="0.046" classname="DATAMAPPER-METHODS-001 - DataMapper methods transforms objects into flattened objects (example #47)">
+    </testcase>
+  </testsuite>
+</testsuites>

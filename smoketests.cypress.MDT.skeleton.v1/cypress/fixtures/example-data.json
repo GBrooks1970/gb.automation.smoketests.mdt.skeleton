@@ -1,0 +1,50 @@
+{
+    "envName": "EXAMPLE",
+    "parentComplexData": {
+        "childComplexData": {
+            "details": [
+                {
+                    "detailId": "0001",
+                    "minor": "minor001",
+                    "major": "major001"
+                },
+                {
+                    "detailId": "0002",
+                    "minor": "minor002",
+                    "major": "major002"
+                }
+            ],
+            "places": [
+                {
+                    "PlaceId": "0001",
+                    "Country": "country001",
+                    "City": "city001"
+                },
+                {
+                    "PlaceId": "0002",
+                    "Country": "country002",
+                    "City": "city002"
+                },
+                {
+                    "PlaceId": "0003",
+                    "Country": "country002",
+                    "City": "city003"
+                }
+            ],
+            "Qualifications": [
+                {
+                    "Name": "name001",
+                    "grades": "[pass|fail]"
+                },
+                {
+                    "Name": "name002",
+                    "grades": "[pass|fail]"
+                },
+                {
+                    "Name": "name003",
+                    "grades": "[pass|fail]"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.106" tests="9" failures="0" skipped="9">
+  <testsuite name="Root Suite" timestamp="2025-03-11T10:49:48" tests="0" file="cypress\e2e\EXAMPLE\UG-APPLY-ED\ug-apply-ed-b.feature" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Validation of Unique Learning Number" timestamp="2025-03-11T10:49:48" tests="9" time="0.100" failures="0">
+  </testsuite>
+</testsuites>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.402" tests="6" failures="0">
+  <testsuite name="Root Suite" timestamp="2025-03-11T10:34:41" tests="0" file="cypress\e2e\util-tests\DataMapper\DataMapper_GenerateFieldDetail_BaseArray.feature" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="DataMapper - Generate FieldDetails Array Methods" timestamp="2025-03-11T10:34:41" tests="6" time="0.395" failures="0">
+    <testcase name="DataMapper - Generate FieldDetails Array Methods DATAMAPPER-FIELDDETAILS-001 - DataMapper method GenerateFieldDetail_BaseArray processes various input objects correctly (example #1)" time="0.074" classname="DATAMAPPER-FIELDDETAILS-001 - DataMapper method GenerateFieldDetail_BaseArray processes various input objects correctly (example #1)">
+    </testcase>
+    <testcase name="DataMapper - Generate FieldDetails Array Methods DATAMAPPER-FIELDDETAILS-001 - DataMapper method GenerateFieldDetail_BaseArray processes various input objects correctly (example #2)" time="0.043" classname="DATAMAPPER-FIELDDETAILS-001 - DataMapper method GenerateFieldDetail_BaseArray processes various input objects correctly (example #2)">
+    </testcase>
+    <testcase name="DataMapper - Generate FieldDetails Array Methods DATAMAPPER-FIELDDETAILS-002 - DataMapper method GenerateFieldDetailsArray processes input objects with provided templates correctly (example #1)" time="0.038" classname="DATAMAPPER-FIELDDETAILS-002 - DataMapper method GenerateFieldDetailsArray processes input objects with provided templates correctly (example #1)">
+    </testcase>
+    <testcase name="DataMapper - Generate FieldDetails Array Methods DATAMAPPER-FIELDDETAILS-002 - DataMapper method GenerateFieldDetailsArray processes input objects with provided templates correctly (example #2)" time="0.037" classname="DATAMAPPER-FIELDDETAILS-002 - DataMapper method GenerateFieldDetailsArray processes input objects with provided templates correctly (example #2)">
+    </testcase>
+    <testcase name="DataMapper - Generate FieldDetails Array Methods DATAMAPPER-FIELDDETAILS-002 - DataMapper method GenerateFieldDetailsArray processes input objects with provided templates correctly (example #3)" time="0.039" classname="DATAMAPPER-FIELDDETAILS-002 - DataMapper method GenerateFieldDetailsArray processes input objects with provided templates correctly (example #3)">
+    </testcase>
+    <testcase name="DataMapper - Generate FieldDetails Array Methods DATAMAPPER-FIELDDETAILS-002 - DataMapper method GenerateFieldDetailsArray processes input objects with provided templates correctly (example #4)" time="0.035" classname="DATAMAPPER-FIELDDETAILS-002 - DataMapper method GenerateFieldDetailsArray processes input objects with provided templates correctly (example #4)">
+    </testcase>
+  </testsuite>
+</testsuites>

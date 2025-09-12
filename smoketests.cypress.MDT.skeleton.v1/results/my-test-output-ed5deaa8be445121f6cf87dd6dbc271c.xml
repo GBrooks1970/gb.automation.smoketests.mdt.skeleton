@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="2.276" tests="5" failures="5">
+  <testsuite name="Root Suite" timestamp="2025-03-11T11:14:02" tests="0" file="cypress\e2e\util-tests\Scenario_Context_Management\Scenario_Context_Management-AA.feature" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="A User can search for an applicant" timestamp="2025-03-11T11:14:02" tests="5" time="2.271" failures="5">
+    <testcase name="A User can search for an applicant Scenario_Context_Management-AA-001 - A Topaz User can search for an Application under the UCAS or CUKAS Scheme (example #1)" time="0.000" classname="Scenario_Context_Management-AA-001 - A Topaz User can search for an Application under the UCAS or CUKAS Scheme (example #1)">
+      <failure message="getRandomMemberWithoutRepetition : availableMembers is empty" type="Error"><![CDATA[Error: getRandomMemberWithoutRepetition : availableMembers is empty
+    at DataPickerUtil.getRandomMemberWithoutRepetition (http://localhost:63803/__cypress/tests?p=cypress\e2e\util-tests\Scenario_Context_Management\Scenario_Context_Management-AA.feature:89208:19)
+    at Context.eval (http://localhost:63803/__cypress/tests?p=cypress\e2e\util-tests\Scenario_Context_Management\Scenario_Context_Management-AA.feature:96703:60)
+    at Registry.runStepDefininition (http://localhost:63803/__cypress/tests?p=cypress\e2e\util-tests\Scenario_Context_Management\Scenario_Context_Management-AA.feature:12502:48)
+    at Object.fn (http://localhost:63803/__cypress/tests?p=cypress\e2e\util-tests\Scenario_Context_Management\Scenario_Context_Management-AA.feature:86583:43)
+    at runStepWithLogGroup (http://localhost:63803/__cypress/tests?p=cypress\e2e\util-tests\Scenario_Context_Management\Scenario_Context_Management-AA.feature:86061:29)
+    at Context.eval (http://localhost:63803/__cypress/tests?p=cypress\e2e\util-tests\Scenario_Context_Management\Scenario_Context_Management-AA.feature:86579:62)]]></failure>
+    </testcase>
+    <testcase name="A User can search for an applicant Scenario_Context_Management-AA-001 - A Topaz User can search for an Application under the UCAS or CUKAS Scheme (example #2)" time="0.000" classname="Scenario_Context_Management-AA-001 - A Topaz User can search for an Application under the UCAS or CUKAS Scheme (example #2)">
+      <failure message="getRandomMemberWithoutRepetition : availableMembers is empty" type="Error"><![CDATA[Error: getRandomMemberWithoutRepetition : availableMembers is empty
+    at DataPickerUtil.getRandomMemberWithoutRepetition (http://localhost:63803/__cypress/tests?p=cypress\e2e\util-tests\Scenario_Context_Management\Scenario_Context_Management-AA.feature:89208:19)
+    at Context.eval (http://localhost:63803/__cypress/tests?p=cypress\e2e\util-tests\Scenario_Context_Management\Scenario_Context_Management-AA.feature:96703:60)
+    at Registry.runStepDefininition (http://localhost:63803/__cypress/tests?p=cypress\e2e\util-tests\Scenario_Context_Management\Scenario_Context_Management-AA.feature:12502:48)
+    at Object.fn (http://localhost:63803/__cypress/tests?p=cypress\e2e\util-tests\Scenario_Context_Management\Scenario_Context_Management-AA.feature:86583:43)
+    at runStepWithLogGroup (http://localhost:63803/__cypress/tests?p=cypress\e2e\util-tests\Scenario_Context_Management\Scenario_Context_Management-AA.feature:86061:29)
+    at Context.eval (http://localhost:63803/__cypress/tests?p=cypress\e2e\util-tests\Scenario_Context_Management\Scenario_Context_Management-AA.feature:86579:62)]]></failure>
+    </testcase>
+    <testcase name="A User can search for an applicant Scenario_Context_Management-AA-001 - A Topaz User can search for an Application under the UCAS or CUKAS Scheme (example #3)" time="0.000" classname="Scenario_Context_Management-AA-001 - A Topaz User can search for an Application under the UCAS or CUKAS Scheme (example #3)">
+      <failure message="getRandomMemberWithoutRepetition : availableMembers is empty" type="Error"><![CDATA[Error: getRandomMemberWithoutRepetition : availableMembers is empty
+    at DataPickerUtil.getRandomMemberWithoutRepetition (http://localhost:63803/__cypress/tests?p=cypress\e2e\util-tests\Scenario_Context_Management\Scenario_Context_Management-AA.feature:89208:19)
+    at Context.eval (http://localhost:63803/__cypress/tests?p=cypress\e2e\util-tests\Scenario_Context_Management\Scenario_Context_Management-AA.feature:96703:60)
+    at Registry.runStepDefininition (http://localhost:63803/__cypress/tests?p=cypress\e2e\util-tests\Scenario_Context_Management\Scenario_Context_Management-AA.feature:12502:48)
+    at Object.fn (http://localhost:63803/__cypress/tests?p=cypress\e2e\util-tests\Scenario_Context_Management\Scenario_Context_Management-AA.feature:86583:43)
+    at runStepWithLogGroup (http://localhost:63803/__cypress/tests?p=cypress\e2e\util-tests\Scenario_Context_Management\Scenario_Context_Management-AA.feature:86061:29)
+    at Context.eval (http://localhost:63803/__cypress/tests?p=cypress\e2e\util-tests\Scenario_Context_Management\Scenario_Context_Management-AA.feature:86579:62)]]></failure>
+    </testcase>
+    <testcase name="A User can search for an applicant Scenario_Context_Management-AA-001 - A Topaz User can search for an Application under the UCAS or CUKAS Scheme (example #4)" time="0.000" classname="Scenario_Context_Management-AA-001 - A Topaz User can search for an Application under the UCAS or CUKAS Scheme (example #4)">
+      <failure message="getRandomMemberWithoutRepetition : availableMembers is empty" type="Error"><![CDATA[Error: getRandomMemberWithoutRepetition : availableMembers is empty
+    at DataPickerUtil.getRandomMemberWithoutRepetition (http://localhost:63803/__cypress/tests?p=cypress\e2e\util-tests\Scenario_Context_Management\Scenario_Context_Management-AA.feature:89208:19)
+    at Context.eval (http://localhost:63803/__cypress/tests?p=cypress\e2e\util-tests\Scenario_Context_Management\Scenario_Context_Management-AA.feature:96703:60)
+    at Registry.runStepDefininition (http://localhost:63803/__cypress/tests?p=cypress\e2e\util-tests\Scenario_Context_Management\Scenario_Context_Management-AA.feature:12502:48)
+    at Object.fn (http://localhost:63803/__cypress/tests?p=cypress\e2e\util-tests\Scenario_Context_Management\Scenario_Context_Management-AA.feature:86583:43)
+    at runStepWithLogGroup (http://localhost:63803/__cypress/tests?p=cypress\e2e\util-tests\Scenario_Context_Management\Scenario_Context_Management-AA.feature:86061:29)
+    at Context.eval (http://localhost:63803/__cypress/tests?p=cypress\e2e\util-tests\Scenario_Context_Management\Scenario_Context_Management-AA.feature:86579:62)]]></failure>
+    </testcase>
+    <testcase name="A User can search for an applicant Scenario_Context_Management-AA-001 - A Topaz User can search for an Application under the UCAS or CUKAS Scheme (example #5)" time="0.000" classname="Scenario_Context_Management-AA-001 - A Topaz User can search for an Application under the UCAS or CUKAS Scheme (example #5)">
+      <failure message="getRandomMemberWithoutRepetition : availableMembers is empty" type="Error"><![CDATA[Error: getRandomMemberWithoutRepetition : availableMembers is empty
+    at DataPickerUtil.getRandomMemberWithoutRepetition (http://localhost:63803/__cypress/tests?p=cypress\e2e\util-tests\Scenario_Context_Management\Scenario_Context_Management-AA.feature:89208:19)
+    at Context.eval (http://localhost:63803/__cypress/tests?p=cypress\e2e\util-tests\Scenario_Context_Management\Scenario_Context_Management-AA.feature:96703:60)
+    at Registry.runStepDefininition (http://localhost:63803/__cypress/tests?p=cypress\e2e\util-tests\Scenario_Context_Management\Scenario_Context_Management-AA.feature:12502:48)
+    at Object.fn (http://localhost:63803/__cypress/tests?p=cypress\e2e\util-tests\Scenario_Context_Management\Scenario_Context_Management-AA.feature:86583:43)
+    at runStepWithLogGroup (http://localhost:63803/__cypress/tests?p=cypress\e2e\util-tests\Scenario_Context_Management\Scenario_Context_Management-AA.feature:86061:29)
+    at Context.eval (http://localhost:63803/__cypress/tests?p=cypress\e2e\util-tests\Scenario_Context_Management\Scenario_Context_Management-AA.feature:86579:62)]]></failure>
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.166" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2025-03-11T11:14:19" tests="0" file="cypress\e2e\util-tests\Scenario_Context_Management\Scenario_Context_Management-E.feature" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Scenario_Context - Scenario Context Management Another Feature file" timestamp="2025-03-11T11:14:19" tests="1" time="0.158" failures="0">
+    <testcase name="Scenario_Context - Scenario Context Management Another Feature file Scenario_Context_Management-D - A Topaz User can search for an Application under the UCAS or CUKAS Scheme" time="0.121" classname="Scenario_Context_Management-D - A Topaz User can search for an Application under the UCAS or CUKAS Scheme">
+    </testcase>
+  </testsuite>
+</testsuites>

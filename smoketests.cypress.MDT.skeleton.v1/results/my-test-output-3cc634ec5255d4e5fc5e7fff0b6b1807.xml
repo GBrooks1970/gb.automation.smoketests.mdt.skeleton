@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.088" tests="6" failures="0" skipped="6">
+  <testsuite name="Root Suite" timestamp="2025-03-11T11:04:02" tests="0" file="cypress\e2e\shared-services\shared-services-sign-in\shared-services-sign-in-a.feature" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="User Site Sign-in" timestamp="2025-03-11T11:04:02" tests="6" time="0.083" failures="0">
+  </testsuite>
+</testsuites>

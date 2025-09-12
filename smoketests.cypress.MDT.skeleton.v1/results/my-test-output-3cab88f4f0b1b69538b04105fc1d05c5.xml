@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.163" tests="11" failures="0" skipped="11">
+  <testsuite name="Root Suite" timestamp="2025-03-11T10:14:28" tests="0" file="cypress\e2e\util-tests\string-utils.feature" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Parsing Dynamic Alphanumeric Strings" timestamp="2025-03-11T10:14:28" tests="11" time="0.152" failures="0">
+  </testsuite>
+</testsuites>

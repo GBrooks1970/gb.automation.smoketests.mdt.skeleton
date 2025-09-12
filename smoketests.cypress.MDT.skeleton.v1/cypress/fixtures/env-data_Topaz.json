@@ -1,0 +1,30 @@
+{
+    "UserDefault": {
+        "username": "TESTSUPERUSER",
+        "password": "F1ndMyBugz!"
+    },
+    "Users": [
+        {
+            "username": "TESTSUPERUSER01",
+            "password": "F1ndMyBugz!2"
+        },
+        {
+            "username": "TESTSUPERUSER02",
+            "password": "F1ndMyBugz!2"
+        },
+        {
+            "username": "TESTSUPERUSER03",
+            "password": "F1ndMyBugz!2"
+        },
+        {
+            "username": "TESTSUPERUSER04",
+            "password": "DoingMyHeadIn!1"
+        },
+        {
+            "username": "TESTSUPERUSER05",
+            "password": "DoingMyHeadIn!1"
+        }
+    ], 
+    "ApplicantDetails": [],
+    "MaintainFeeReasons": []
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.343" tests="4" failures="0">
+  <testsuite name="Root Suite" timestamp="2025-03-11T10:34:29" tests="0" file="cypress\e2e\util-tests\DataMapper\DataMapper_DeepMergeObject.feature" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="DataMapper - Deep Merge Object in DataMapper" timestamp="2025-03-11T10:34:29" tests="4" time="0.332" failures="0">
+    <testcase name="DataMapper - Deep Merge Object in DataMapper DATAMAPPER-MERGE-OBJECTS-001 - DataMapper method Merging objects with optional array merging (example #1)" time="0.096" classname="DATAMAPPER-MERGE-OBJECTS-001 - DataMapper method Merging objects with optional array merging (example #1)">
+    </testcase>
+    <testcase name="DataMapper - Deep Merge Object in DataMapper DATAMAPPER-MERGE-OBJECTS-001 - DataMapper method Merging objects with optional array merging (example #2)" time="0.047" classname="DATAMAPPER-MERGE-OBJECTS-001 - DataMapper method Merging objects with optional array merging (example #2)">
+    </testcase>
+    <testcase name="DataMapper - Deep Merge Object in DataMapper DATAMAPPER-MERGE-OBJECTS-001 - DataMapper method Merging objects with optional array merging (example #3)" time="0.051" classname="DATAMAPPER-MERGE-OBJECTS-001 - DataMapper method Merging objects with optional array merging (example #3)">
+    </testcase>
+    <testcase name="DataMapper - Deep Merge Object in DataMapper DATAMAPPER-MERGE-OBJECTS-001 - DataMapper method Merging objects with optional array merging (example #4)" time="0.047" classname="DATAMAPPER-MERGE-OBJECTS-001 - DataMapper method Merging objects with optional array merging (example #4)">
+    </testcase>
+  </testsuite>
+</testsuites>

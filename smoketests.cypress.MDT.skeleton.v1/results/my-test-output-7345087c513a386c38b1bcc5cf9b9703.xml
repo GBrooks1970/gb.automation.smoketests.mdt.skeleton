@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.145" tests="13" failures="0" skipped="13">
+  <testsuite name="Root Suite" timestamp="2025-03-11T10:50:51" tests="0" file="cypress\e2e\util-tests\DataPicker\DataPickerUtil-B.feature" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="DataPickerUtil - Random Member Selection Without Repetition" timestamp="2025-03-11T10:50:51" tests="13" time="0.140" failures="0">
+  </testsuite>
+</testsuites>

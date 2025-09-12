@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.067" tests="1" failures="0" skipped="1">
+  <testsuite name="Root Suite" timestamp="2025-03-11T10:07:16" tests="0" file="cypress\e2e\util-tests\Scenario_Context_Management\Scenario_Context_Management-E.feature" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Scenario_Context - Scenario Context Management Another Feature file" timestamp="2025-03-11T10:07:16" tests="1" time="0.060" failures="0">
+  </testsuite>
+</testsuites>

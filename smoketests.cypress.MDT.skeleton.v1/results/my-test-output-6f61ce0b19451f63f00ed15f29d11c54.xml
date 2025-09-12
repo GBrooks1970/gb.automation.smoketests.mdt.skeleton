@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.105" tests="7" failures="0" skipped="7">
+  <testsuite name="Root Suite" timestamp="2025-03-11T11:11:56" tests="0" file="cypress\e2e\util-tests\deepEquality.feature" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Custom Deep Equality of JSON objects" timestamp="2025-03-11T11:11:56" tests="7" time="0.096" failures="0">
+  </testsuite>
+</testsuites>

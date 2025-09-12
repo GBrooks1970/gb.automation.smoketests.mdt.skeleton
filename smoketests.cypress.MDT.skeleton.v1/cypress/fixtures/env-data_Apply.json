@@ -1,0 +1,154 @@
+{
+    "ContactAndResidencyData": [],
+    "EducationData": {
+        "EducationDetails": [
+            {
+                "ULN": "1000000001",
+                "HighestExpectedQualification": "Below honours degree level qualifications"
+            },
+            {
+                "ULN": "1000000002",
+                "HighestExpectedQualification": "Honours degree level or above qualifications"
+            },
+            {
+                "ULN": "1000000003",
+                "HighestExpectedQualification": "I will have no qualifications"
+            }
+        ],
+        "PlacesOfEducation": [
+            {
+                "Name": "Newmarket College",
+                "StartDate": "[TODAY-1YEAR]",
+                "EndDate": "[TODAY]",
+                "StudyType": "Part time",
+                "Qualifications": "No"
+            },
+            {
+                "Name": "King Edward VI High School, Stafford",
+                "StartDate": "[TODAY-1YEAR]",
+                "EndDate": "[TODAY]",
+                "StudyType": "Full time",
+                "Qualifications": "No"
+            },
+            {
+                "Name": "Loyola Jesuit College",
+                "StartDate": "[TODAY-1YEAR]",
+                "EndDate": "[TODAY]",
+                "StudyType": "Full time",
+                "Qualifications": "Yes"
+            },
+            {
+                "Name": "Stafford College",
+                "StartDate": "[TODAY-1YEAR]",
+                "EndDate": "[TODAY]",
+                "StudyType": "Sandwich",
+                "Qualifications": "Yes"
+            },
+            {
+                "Name": "RODBASTON COLLEGE, STAFFORD",
+                "StartDate": "[TODAY-1YEAR]",
+                "EndDate": "[TODAY]",
+                "StudyType": "Part time",
+                "Qualifications": "Yes"
+            },
+            {
+                "Name": "Tabor High School, Braintree",
+                "StartDate": "[TODAY-1YEAR]",
+                "EndDate": "[TODAY]",
+                "StudyType": "Full time",
+                "Qualifications": "Yes"
+            },
+            {
+                "Name": "Argyle House School, Sunderland",
+                "StartDate": "[TODAY-1YEAR]",
+                "EndDate": "[TODAY]",
+                "StudyType": "Full time",
+                "Qualifications": "Yes"
+            },
+            {
+                "Name": "The Crypt School, Gloucesterd",
+                "StartDate": "[TODAY-1YEAR]",
+                "EndDate": "[TODAY]",
+                "StudyType": "Full time",
+                "Qualifications": "Yes"
+            }
+        ],
+        "EDQualifications": [
+            {
+                "QualName":"AAT NVQ level 3 in Accounting",
+                "QualDate": "[TODAY-1MONTH]",
+                "Grade": "Pass"
+            },
+            {
+                "QualName":"Cambridge Pre-U Certificate (Principal Subject)",
+                "QualDate": "[TODAY-1MONTH]",
+                "Grade": "B"
+            },
+            {
+                "QualName":"British Horse Society (BHS) Level 3 Awards",
+                "QualDate": "[TODAY-1MONTH]",
+                "Grade": "Exceptional"
+            },
+            {
+                "QualName":"Australia - W Australia - Western Australian Certificate of Education (WACE)",
+                "QualDate": "[TODAY-1MONTH]",
+                "Grade": "Merit"
+            },
+            {
+                "QualName":"Certificate in Digital Applications (CiDA)",
+                "QualDate": "[TODAY-1MONTH]",
+                "Grade": "Booya"
+            },
+            {
+                "QualName":"Adult Literacy Certificate",
+                "QualDate": "[TODAY-1MONTH]",
+                "Grade": "TestTest"
+            },
+            {
+                "QualName":"Algeria-Baccalauréat Technique",
+                "QualDate": "[TODAY-1MONTH]",
+                "Grade": "AA",
+                "Modules": [
+                    {
+                        "ModuleTitle": "Basic Module1",
+                        "ModuleDate": "[TODAY-2MONTH]",
+                        "Grade": "BB"
+                    },
+                    {
+                        "ModuleTitle": "Basic Module2",
+                        "ModuleDate": "[TODAY-2MONTH]",
+                        "Grade": "CC"
+                    }
+                ]
+            },
+            {
+                "QualName":"BTEC National Subsidiary Certificate in Children's Play, Learning & Development",
+                "QualDate": "[TODAY-1MONTH]",
+                "Grade": "Pass",
+                "Modules": [
+                    {
+                        "ModuleTitle": "Reading",
+                        "ModuleDate": "[IGNORE]",
+                        "Grade": "A",
+                        "GradeOther": "Test"
+                    },
+                    {
+                        "ModuleTitle": "Writing",
+                        "ModuleDate": "[IGNORE]",
+                        "Grade": "Fail",
+                        "GradeOther": "Test2"
+                    }
+                ]
+            },
+            {
+                "QualName":"Level 1/Level 2 Certificates (iGCSE for UK State Schools)",
+                "QualDate": "[TODAY-1MONTH]",
+                "QualTitle": "TestQ",
+                "AwardingBody": "Edexcel",
+                "AwardingBodyOther": "ABOther",
+                "Grade": "Other",
+                "GradeOther": "GOther"
+            }
+        ]
+    }
+}

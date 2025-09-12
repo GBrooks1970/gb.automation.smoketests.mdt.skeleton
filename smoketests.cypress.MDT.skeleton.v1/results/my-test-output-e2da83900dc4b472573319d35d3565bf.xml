@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.210" tests="2" failures="0">
+  <testsuite name="Root Suite" timestamp="2025-03-11T11:05:29" tests="0" file="cypress\e2e\util-tests\MappingUtils\MappingUtils_mapToKeyValuePairs.feature" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="MappingUtils - Map objects to key-value pairs - mapToKeyValuePairs method" timestamp="2025-03-11T11:05:29" tests="2" time="0.203" failures="0">
+    <testcase name="MappingUtils - Map objects to key-value pairs - mapToKeyValuePairs method Map object to key-value pairs" time="0.089" classname="Map object to key-value pairs">
+    </testcase>
+    <testcase name="MappingUtils - Map objects to key-value pairs - mapToKeyValuePairs method Map complex object to key-value pairs" time="0.053" classname="Map complex object to key-value pairs">
+    </testcase>
+  </testsuite>
+</testsuites>

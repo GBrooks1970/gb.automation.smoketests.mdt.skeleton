@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.074" tests="4" failures="0" skipped="4">
+  <testsuite name="Root Suite" timestamp="2025-03-11T11:13:49" tests="0" file="cypress\e2e\util-tests\MappingUtils\MappingUtils_mapRecordDataTotargetObj.feature" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="MappingUtils - Map RecordData to Target Object - mapRecordDataToTargetObj method" timestamp="2025-03-11T11:13:49" tests="4" time="0.067" failures="0">
+  </testsuite>
+</testsuites>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.663" tests="9" failures="0">
+  <testsuite name="Root Suite" timestamp="2025-03-11T10:34:37" tests="0" file="cypress\e2e\util-tests\DataMapper\DataMapper_GenerateEmptyObject.feature" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="DataMapper - Generate Empty Object from Interface" timestamp="2025-03-11T10:34:37" tests="9" time="0.648" failures="0">
+    <testcase name="DataMapper - Generate Empty Object from Interface DATAMAPPER-GENERATE-EMPTY-OBJECTS-001 - DataMapper method Generate an object with empty values based on an interface (example #1)" time="0.104" classname="DATAMAPPER-GENERATE-EMPTY-OBJECTS-001 - DataMapper method Generate an object with empty values based on an interface (example #1)">
+    </testcase>
+    <testcase name="DataMapper - Generate Empty Object from Interface DATAMAPPER-GENERATE-EMPTY-OBJECTS-001 - DataMapper method Generate an object with empty values based on an interface (example #2)" time="0.046" classname="DATAMAPPER-GENERATE-EMPTY-OBJECTS-001 - DataMapper method Generate an object with empty values based on an interface (example #2)">
+    </testcase>
+    <testcase name="DataMapper - Generate Empty Object from Interface DATAMAPPER-GENERATE-EMPTY-OBJECTS-001 - DataMapper method Generate an object with empty values based on an interface (example #3)" time="0.044" classname="DATAMAPPER-GENERATE-EMPTY-OBJECTS-001 - DataMapper method Generate an object with empty values based on an interface (example #3)">
+    </testcase>
+    <testcase name="DataMapper - Generate Empty Object from Interface DATAMAPPER-GENERATE-EMPTY-OBJECTS-001 - DataMapper method Generate an object with empty values based on an interface (example #4)" time="0.043" classname="DATAMAPPER-GENERATE-EMPTY-OBJECTS-001 - DataMapper method Generate an object with empty values based on an interface (example #4)">
+    </testcase>
+    <testcase name="DataMapper - Generate Empty Object from Interface DATAMAPPER-GENERATE-EMPTY-OBJECTS-001 - DataMapper method Generate an object with empty values based on an interface (example #5)" time="0.036" classname="DATAMAPPER-GENERATE-EMPTY-OBJECTS-001 - DataMapper method Generate an object with empty values based on an interface (example #5)">
+    </testcase>
+    <testcase name="DataMapper - Generate Empty Object from Interface DATAMAPPER-GENERATE-EMPTY-OBJECTS-001 - DataMapper method Generate an object with empty values based on an interface (example #6)" time="0.048" classname="DATAMAPPER-GENERATE-EMPTY-OBJECTS-001 - DataMapper method Generate an object with empty values based on an interface (example #6)">
+    </testcase>
+    <testcase name="DataMapper - Generate Empty Object from Interface DATAMAPPER-GENERATE-EMPTY-OBJECTS-001 - DataMapper method Generate an object with empty values based on an interface (example #7)" time="0.037" classname="DATAMAPPER-GENERATE-EMPTY-OBJECTS-001 - DataMapper method Generate an object with empty values based on an interface (example #7)">
+    </testcase>
+    <testcase name="DataMapper - Generate Empty Object from Interface DATAMAPPER-GENERATE-EMPTY-OBJECTS-001 - DataMapper method Generate an object with empty values based on an interface (example #8)" time="0.037" classname="DATAMAPPER-GENERATE-EMPTY-OBJECTS-001 - DataMapper method Generate an object with empty values based on an interface (example #8)">
+    </testcase>
+    <testcase name="DataMapper - Generate Empty Object from Interface DATAMAPPER-GENERATE-EMPTY-OBJECTS-001 - DataMapper method Generate an object with empty values based on an interface (example #9)" time="0.038" classname="DATAMAPPER-GENERATE-EMPTY-OBJECTS-001 - DataMapper method Generate an object with empty values based on an interface (example #9)">
+    </testcase>
+  </testsuite>
+</testsuites>

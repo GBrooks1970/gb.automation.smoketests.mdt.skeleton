@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.166" tests="15" failures="0" skipped="15">
+  <testsuite name="Root Suite" timestamp="2025-03-11T11:06:07" tests="0" file="cypress\e2e\util-tests\tokenparser\TokenDynamicStringParser.feature" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="TokenDynamicStringParser String Generation" timestamp="2025-03-11T11:06:07" tests="15" time="0.149" failures="0">
+  </testsuite>
+</testsuites>

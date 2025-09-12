@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.090" tests="5" failures="0" skipped="5">
+  <testsuite name="Root Suite" timestamp="2025-03-11T10:43:11" tests="0" file="cypress\e2e\util-tests\fixture-data-loading\env-data-fixture-data-loading.feature" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="env-data Fixture Data Loading Test" timestamp="2025-03-11T10:43:11" tests="5" time="0.068" failures="0">
+  </testsuite>
+</testsuites>
