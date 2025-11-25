@@ -18,10 +18,19 @@ export type scenario_context_topaz<dataType> = {
     TopazApplicant?: TopazApplicant;
 };
 
+export interface CurrentScenarioDetails {
+    name: string;
+    title: string;
+    tags: string[];
+    primaryTag?: string;
+    uri?: string;
+    id?: string;
+}
+
 export class GlobalTestData {
     Scenario_context!: Record<string, scenario_context<any>>;
     Topaz_Scenario_context!: Record<string, scenario_context_topaz<any>>;
     tags!: string[];
+    currentScenario?: CurrentScenarioDetails;
 }
-
 

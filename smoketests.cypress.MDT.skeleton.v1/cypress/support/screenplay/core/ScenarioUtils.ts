@@ -1,4 +1,4 @@
-import { GlobalTestData, scenario_context, scenario_context_topaz } from "./scenario_context";
+import { CurrentScenarioDetails, GlobalTestData, scenario_context, scenario_context_topaz } from "./scenario_context";
 
 export class ScenarioUtils {
     constructor() { };
@@ -24,8 +24,10 @@ export class ScenarioUtils {
      * @returns {string} - The current scenario title
      */
     static getCurrentScenarioTitle = (): string => {
-        cy.log(`Scenario: ${Cypress.currentTest.title} `);
-        return Cypress.currentTest.title;
+        const { title, name } = ScenarioUtils.getCurrentScenarioDetails();
+        const scenarioTitle = title ?? name;
+        cy.log(`Scenario: ${scenarioTitle} `);
+        return scenarioTitle;
     };
 
     /**
@@ -33,13 +35,13 @@ export class ScenarioUtils {
      * @returns {string} - The current scenario tag
      */
     static getCurrentScenarioTag = (): string => {
-        const tagRegex = /^(?<tag>.*?)\s* - \s*(?<desc>.*)$/
-        const match = tagRegex.exec(Cypress.currentTest.title);
-        if (!match || !match.groups) {
-            throw new Error(`${this.getCurrentScenarioTag.name} : Tag not present in Scenario Tilte: ${Cypress.currentTest.title}`);
+        const details = ScenarioUtils.getCurrentScenarioDetails();
+        const scenarioTag = details.primaryTag ?? details.tags?.[0];
+        if (!scenarioTag) {
+            throw new Error(`${this.getCurrentScenarioTag.name} : Tag not present in current scenario metadata`);
         }
-        cy.log(`Scenario Tag: ${match.groups['tag']}`);
-        return match.groups['tag'];
+        cy.log(`Scenario Tag: ${scenarioTag}`);
+        return scenarioTag;
     };
 
     /**
@@ -47,9 +49,14 @@ export class ScenarioUtils {
      * @returns {object} - Object containing test properties
      */
     static getCurrentTestDetails = (): Record<string, any> => {
-        let testDetails = {
-            title: Cypress.currentTest.title,
-            titlePath: Cypress.currentTest.titlePath,
+        const details = ScenarioUtils.getCurrentScenarioDetails();
+        const testDetails = {
+            title: details.title ?? details.name,
+            name: details.name,
+            tags: details.tags,
+            primaryTag: details.primaryTag,
+            uri: details.uri,
+            id: details.id,
         };
         cy.log(`Test Details: ${JSON.stringify(testDetails)}`);
         return testDetails;
@@ -110,9 +117,18 @@ export class ScenarioUtils {
      */
     static getCurrentCurrentTestTags = (): string[] => {
         const globalData = ScenarioUtils.getGlobalTestData();
-        const tags = globalData.tags;
+        const tags = globalData.currentScenario?.tags ?? globalData.tags ?? [];
         cy.log(`Current Test tags: ${JSON.stringify(tags)}`);
         return tags; // Return the extracted tags array
     };
+
+    private static getCurrentScenarioDetails(): CurrentScenarioDetails {
+        const globalData = ScenarioUtils.getGlobalTestData();
+        const details = globalData.currentScenario;
+        if (!details) {
+            throw new Error(`${this.getCurrentScenarioDetails.name} : Current scenario metadata not set`);
+        }
+        return details;
+    }
     
 }

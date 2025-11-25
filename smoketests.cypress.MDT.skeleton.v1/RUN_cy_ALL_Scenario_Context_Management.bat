@@ -8,11 +8,8 @@ REM Standardized UTC Timestamp: Makes logs easy to compare across different time
 REM Clear and Readable Filename Format: Helps organize logs efficiently.
 REM ============================
 
-REM Get the current UTC date and time in `YYYYMMDDHHMMSS.xxx` format
-for /f "tokens=2 delims==" %%I in ('wmic os get localdatetime /value') do set datetime=%%I
-
-REM Format the datetime to `YYYY-MM-DDTHH-MM-SSZ`
-set datetime=%datetime:~0,4%-%datetime:~4,2%-%datetime:~6,2%T%datetime:~8,2%-%datetime:~10,2%-%datetime:~12,2%Z
+REM Get the current UTC date and time in a WMIC-free way
+for /f %%I in ('powershell -NoProfile -Command "(Get-Date).ToUniversalTime().ToString('yyyy-MM-ddTHH-mm-ssZ')"') do set datetime=%%I
 
 REM Define the output filename with timestamp
 set outputFile=cy_results_ALL_Scenario_Context_Management_%datetime%.txt

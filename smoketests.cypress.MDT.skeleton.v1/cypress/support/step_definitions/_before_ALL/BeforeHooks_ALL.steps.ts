@@ -14,6 +14,17 @@ Before({}, ({ pickle }) => {
     console.log(`ALL Scenario Tags:`, scenarioTags);
 
     globalData.tags = scenarioTags;
+    const primaryTag = scenarioTags.length > 0 ? scenarioTags[0] : undefined;
+    const scenarioTitle = primaryTag ? `${primaryTag} - ${pickle.name}` : pickle.name;
+
+    globalData.currentScenario = {
+        name: pickle.name,
+        title: scenarioTitle,
+        primaryTag,
+        tags: scenarioTags,
+        uri: (pickle as any).uri,
+        id: (pickle as any).id
+    };
     ScenarioUtils.setGlobalTestData(globalData);
 
     //console.log(`globalData: ${CommonUtils.toJSONString(globalData)}`);    

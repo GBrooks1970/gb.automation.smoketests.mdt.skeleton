@@ -24,7 +24,9 @@ async function setupNodeEvents(
   // Initialize the global test data
   config.env.globalTestData = {
     Scenario_context: {},
-    Topaz_Scenario_context: {}
+    Topaz_Scenario_context: {},
+    tags: [],
+    currentScenario: undefined
   } as GlobalTestData;
 
   // Make sure to return the config object as it might have been modified by the plugin.

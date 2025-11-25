@@ -6,13 +6,15 @@
   "scripts": {
     "cy:open": "cypress open",
     "cy:run": "cypress run",
-    "cy:merge-reports": "cypress run --env tags=\"@DEBUGTEST\" --reporter junit \\ --reporter-options \"mochaFile=results/my-test-output-[hash].xml\"",
+    "cy:merge-reports": "cypress run --env tags=\"@DEBUGTEST\" --reporter junit --reporter-options \"mochaFile=results/my-test-output-[hash].xml\"",
     "cy:DEBUGTEST": "cypress run --env tags=\"@DEBUGTEST\"",
     "cy:SMOKETEST": "cypress run --env tags=\"@SMOKETEST\"",
     "cy:UTILTEST": "cypress run --env tags=\"@UTILTEST\"",
     "cy:MAPPINGUTILS": "cypress run --env tags=\"@MAPPINGUTILS\"",
     "cy:DATAMAPPER": "cypress run --env tags=\"@DATAMAPPER\"",
-    "cy:ALL_Scenario_Context_Management": "cypress run --env tags=\"@ALL_Scenario_Context_Management\""
+    "cy:ALL_Scenario_Context_Management": "cypress run --env tags=\"@ALL_Scenario_Context_Management\"",
+    "cy:tag": "cypress run",
+    "ts:check": "tsc --noEmit"
   },
   "keywords": [],
   "author": "",
